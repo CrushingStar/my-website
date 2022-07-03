@@ -1,7 +1,16 @@
 :root {
     font-family: 'Roboto', sans-serif;
+    font-size: 16px;
 }
 
-div.introduction {
-    padding-left: 80px;
+main {
+    margin-left: 80px;
+    padding: 16px;
+}
+
+.navbar {
+    width: 80px;
+    height: 100vh;
+    position: fixed;
+
 }
