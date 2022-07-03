@@ -1,3 +1,7 @@
 :root {
     font-family: 'Roboto', sans-serif;
 }
+
+div.introduction {
+    padding-left: 5px;
+}
