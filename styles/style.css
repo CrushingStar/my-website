@@ -10,7 +10,8 @@ main {
 
 p {
     word-wrap: break-word;
-    width: 1000px;
+    max-width: 1000px;
+    width: auto;
  }
 
 .avatar {
